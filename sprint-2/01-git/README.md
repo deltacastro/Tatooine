@@ -1,4 +1,4 @@
-local	=	Se refiere a la maquina cliente
+local	=	Se refiere a la maquina cliente \r	
 remote	=	Se refiere al servidor donde se encuentra el repositorio
 init	=	Se usa para crear un nuevo repositorio
 clone	=	Copia el repositorio que esta en el servidor git
